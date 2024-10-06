@@ -42,7 +42,7 @@ body {
 }
 /* Hero Section Styles */
 .hero {
-    background-image:url('https://cdn.discordapp.com/attachments/1196764993518047263/1292112369119526912/20241002_203145_0000.jpg?ex=67028ceb&is=67013b6b&hm=a7727d5390c4f737406ab4d6d6aa4ceeaa8b27a9b3b40c3d9fbceb8311586356&');
+    background-image:url('BG.png');
     background-size: 70px;
     background-position : 0% 50%;
     height: 90vh;
